@@ -1,26 +1,21 @@
 {
 	"couples": [
 		{
-			"name": "Fulan bin Fulan",
+			"name": "Amirul Haj Adhi",
 			"sosmed": [
-				{ "icon": "fab fa-instagram", "link": "http://fake.com" },
-				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
-				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
+				{ "icon": "fab fa-instagram", "link": "https://instagram.com/amirulhajadhi" }
 			],
-			"parents": ["Fulan", "Fulanah"],
-			"thumb": "/couples/couple-male.jpg",
-			"address": "Komplek Setia Budi Sentosa Blok 12A Nomor 6 Gang Serunai Asri - Brebes, Jawa Timur"
+			"parents": ["Adam Rasyid", "Hikmah Sahibe"],
+			"thumb": "/couples/b1.jpg",
+			"address": "Jl. Sambung Jawa Kel. Samalewa, Kec. Bungoro, Kab. Pangkep (sebelah barat SMA 3 BUNGORO)"
 		},
 		{
-			"name": "Fulanah binti Fulan",
+			"name": "Putri Amelia Yusdar",
 			"sosmed": [
-				{ "icon": "fab fa-instagram", "link": "http://fake.com" },
-				{ "icon": "fab fa-facebook", "link": "http://fake.com" },
-				{ "icon": "fab fa-twitter", "link": "http://fake.com" }
-			],
-			"parents": ["Fulan", "Fulanah"],
-			"thumb": "/couples/couple-female.jpg",
-			"address": "Komplek Setia Budi Sentosa Blok 12A Nomor 6 Gang Serunai Asri - Brebes, Jawa Timur"
+				{ "icon": "fab fa-instagram", "link": "http://instagram.com/putriameliaaa26" }			],
+			"parents": ["Yusdar Yusuf", "Halinda Dg. Kanang"],
+			"thumb": "/couples/b2.jpg",
+			"address": "JL. H. Subair Yunus, Kel. Bonto Perak Kec. Pangkajene, Kab. Pangkep"
 		}
 	]
 }

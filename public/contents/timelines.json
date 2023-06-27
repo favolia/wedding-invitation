@@ -1,26 +1,19 @@
 {
 	"timelines": [
 		{
-			"title": "Resepsi",
-			"date": "Sabtu, 22 Mei 2022",
-			"time": "08:30 WIB - 09:30 WIB",
-			"location": "Mesjid Jami An Nuur",
-			"address": "Jl. Raden Agung Pangestu KM. 12 Kelurahan Cidro Laras Kecamatan Candi Putih - Brebes, Jawa Timur"
-		},
-		{
 			"title": "Akad Nikah",
-			"date": "Ahad, 21 Mei 2022",
-			"time": "08:00 WIB - 16:30 WIB",
-			"location": "Rumah Mempelai Pria",
-			"address": "Jl. Raden Agung Pangestu KM. 12 Kelurahan Cidro Laras Kecamatan Candi Putih - Brebes, Jawa Timur"
-
+			"date": "Selasa, 11 Juli 2023",
+			"time": "10:00 WITA - SELESAI",
+			"location": "Rumah Mempelai Wanita",
+			"address": "JL. H. Subair Yunus, Kel. Bonto Perak, Kec. Pangkajene, Kab. Pangkep"
 		},
 		{
-			"title": "Siraman",
-			"date": "Jum'at, 20 Mei 2022",
-			"time": "08:00 - 12:00 WIB",
-			"location": "Rumah Mempelai Pria",	
-			"address": "Jl. Raden Agung Pangestu KM. 12 Kelurahan Cidro Laras Kecamatan Candi Putih - Brebes, Jawa Timur"
+			"title": "Resepsi",
+			"date": "Rabu, 12 Juli 2023",
+			"time": "19:00 WITA - SELESAI",
+			"location": "Rumah Mempelai Pria",
+			"address": "Jl. Sambung Jawa Kel. Samalewa, Kec. Bungoro, Kab. Pangkep (Sebelah Barat SMA NEG. 3 BUNGORO - SMANBO)"
+
 		}
 	]
 }
