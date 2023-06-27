@@ -1,9 +1,9 @@
 <template>
-  <section class="w-full bg-couples bg-center bg-cover h-screen">
-    <section class="container-section h-screen grid content-end">
+  <section class="w-full bg-couples bg-cover bg-[-4rem_center] h-screen">
+    <section class=" h-screen flex items-end w-full">
       <div 
-        class="animate__animated animate__fadeInUpBig text-gray-100 text-center bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-t-3xl px-6 py-10">
-        <p>Pernikahan</p>
+        class="animate__animated animate__fadeInUpBig h-[80%] w-full flex flex-col justify-center text-gray-100 text-center bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-t-3xl px-6 py-10">
+        <p class="mb-2">Pernikahan</p>
         <h1 class="tangerine-font text-4xl font-bold">{{ couples[0] }}</h1>
         <sup class="font-serif font-normal text-lg">(Zul)</sup>
         <h1 class="tangerine-font text-title leading-[3rem]">&</h1>
