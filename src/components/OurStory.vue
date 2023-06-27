@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <section class="w-full">
     <section class="container-section">
       <HeaderSection title="Kisah Cinta Kami" />
@@ -38,4 +38,4 @@ onMounted(() => {
     .catch( err => alert(err) )
 })
 
-</script>
+</script> -->
