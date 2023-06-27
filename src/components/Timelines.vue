@@ -19,7 +19,7 @@
               <decoration class="w-2/12 mx-auto my-2 fill-amber-500"></decoration>
               <p class="text-amber-500">{{ timeline.location }}</p>
               <p class="text-gray-200">{{ timeline.address }}</p>
-              <a class="btn" href="">
+              <a class="btn" :href="timeline.map_link">
                 <i class="fa-solid fa-map"></i>
                 Lihat Peta
               </a>

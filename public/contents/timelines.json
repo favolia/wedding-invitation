@@ -3,8 +3,9 @@
 		{
 			"title": "Akad Nikah",
 			"date": "Selasa, 11 Juli 2023",
-			"time": "10:00 WITA - SELESAI",
+			"time": "10:00 WITA",
 			"location": "Rumah Mempelai Wanita",
+			"map_link": "https://www.google.com/maps/place/4%C2%B051'42.3%22S+119%C2%B033'35.9%22E/@-4.861741,119.559958,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-4.861741!4d119.559958?entry=ttu",
 			"address": "JL. H. Subair Yunus, Kel. Bonto Perak, Kec. Pangkajene, Kab. Pangkep"
 		},
 		{
@@ -12,8 +13,8 @@
 			"date": "Rabu, 12 Juli 2023",
 			"time": "19:00 WITA - SELESAI",
 			"location": "Rumah Mempelai Pria",
+			"map_link": "https://www.google.com/maps/place/AAN+SPORT+PANGKEP/@-4.8156709,119.5417384,17z/data=!3m1!4b1!4m6!3m5!1s0x2dbe4f0639ce417f:0x9c89772699e40f9e!8m2!3d-4.8156709!4d119.5417384!16s%2Fg%2F11t9r5rfc8?entry=ttu",
 			"address": "Jl. Sambung Jawa Kel. Samalewa, Kec. Bungoro, Kab. Pangkep (Sebelah Barat SMA NEG. 3 BUNGORO - SMANBO)"
-
 		}
 	]
 }
