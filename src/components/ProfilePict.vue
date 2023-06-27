@@ -8,7 +8,7 @@
       <p class="text-gray-100">{{ source.address }}</p>
       <div class="flex gap-3 justify-center mt-3">
         <template v-for="(item, x) in source.sosmed" :key="x">
-          <a target="_blank" class="text-amber-500" :href="item.link"><i :class="item.icon" class="text-xl"></i></a>
+          <a target="_blank" class="text-gray-100" :href="item.link"><i :class="item.icon" class="text-xl"></i></a>
         </template>
       </div>
     </div>

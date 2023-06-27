@@ -7,9 +7,9 @@
 </style>
 
 <template>
-  <section class="w-full bg-gradient-to-b from-gray-700 to-gray-600">
+  <section class="w-full bg-orange-300">
     <section class="container-section pb-12">
-      <HeaderSection text-color="text-gray-100" subtitle="Tanpa mengurangi rasa hormat, kami mengajak para tamu undangan agar bisa berhadir pada serangkaian acara kami" title="Runtutan Acara"></HeaderSection>
+      <HeaderSection decor="fill-yellow-300" text-color="text-gray-100" subtitle="Tanpa mengurangi rasa hormat, kami mengajak para tamu undangan agar bisa berhadir pada serangkaian acara kami" title="Runtutan Acara"></HeaderSection>
       <Card>
         <template v-slot:body>
           <div class="bg-gray-900 px-6 py-8 text-center text-sm font-medium" v-for="(timeline, index) in timelines" :key="index">
@@ -38,7 +38,7 @@
                 Konfirmasi
               </button>
             </div>
-            <img src="@/assets/images/couples1.png" alt="">
+            <!-- <img src="@/assets/images/a6.jpg" alt=""> -->
           </section>
         </template>
       </Card>

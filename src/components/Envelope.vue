@@ -22,17 +22,10 @@ import Clipboard from '@/components/Clipboard.vue'
 
 const wallets = [
   {
-    thumb: 'wallets/mandiri.png',
-    platform: 'Mandiri',
-    name: 'Fulanah',
-    number: '0004389203902',
-    prefix: 'rekening'
-  },
-  {
-    thumb: 'wallets/mandiri.png',
-    platform: 'Mandiri',
-    name: 'Fulanah',
-    number: '8843439001940',
+    thumb: 'wallets/bri1.png',
+    platform: 'BRI',
+    name: 'Amirul Haj Adhi',
+    number: '341901012373502',
     prefix: 'rekening'
   }
 ]
