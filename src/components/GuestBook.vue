@@ -75,6 +75,7 @@ import { useRoute } from 'vue-router'
 import axios from 'axios'
 import HeaderSection from '@/components/HeaderSection.vue'
 import Alert from '@/components/Alert.vue'
+import MessagesBox from '@/components/MessagesBox.vue'
 // import Gift from '@/components/Gift.vue'
 
 // Form handler
