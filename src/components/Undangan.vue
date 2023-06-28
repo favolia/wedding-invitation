@@ -2,7 +2,7 @@
     <section v-if="showUndangan" class="fixed w-full left-0 top-0 h-screen z-50 bg-black flex flex-col justify-center items-center">
       <h1 class="tangerine-font text-2xl text-white" data-aos="fade-up">Undangan Pernikahan</h1>
       
-      <div class="w-44 h-44 mt-5 mb-2 rounded-full overflow-hidden flex justify-center items-center" data-aos="fade-up">
+      <div class="w-44 h-44 mt-5 mb-2 rounded-full overflow-hidden flex justify-center items-center outline outline-white" data-aos="fade-up">
         <img src="/galleries/a6.jpg" alt="">
       </div>
   
