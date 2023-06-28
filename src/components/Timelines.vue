@@ -42,6 +42,7 @@
           </section>
         </template>
       </Card>
+      <HeaderSection class="pt-12 pb-5 !text-white" title="Turut Mengundang" decor="fill-yellow-300" subtitle="Yudar Yusuf / Haslinda <br> Keluarga Besar Muh.Yusuf.H & Darmawati <br> Keluarga Besar Puang Ngati(Alm) & Masita Puang Bulan"></HeaderSection>
     </section>
   </section>
 </template>
