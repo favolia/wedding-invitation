@@ -57,13 +57,13 @@ input, textarea, select, option {
         </button>
       </form>
       <!-- Gift Section -->
-      <Gift></Gift>
+      <!-- <Gift></Gift> -->
       <!-- Message Box -->
-      <!--MessagesBox :messages="messages" -->
+      <!-- MessagesBox :messages="messages" -->
       <!-- Frames -->
-      <!-- <div class="w-full text-center pb-12 mt-12">
-        <p class="text-sm text-amber-600 font-medium">Diundang &copy; 2022</p>
-      </div> -->
+      <div class="w-full text-center pb-12 mt-12">
+        <p class="text-sm text-amber-600 font-medium"></p>
+      </div>
     </section>
   </section>
 </template>
@@ -75,7 +75,7 @@ import { useRoute } from 'vue-router'
 import axios from 'axios'
 import HeaderSection from '@/components/HeaderSection.vue'
 import Alert from '@/components/Alert.vue'
-//import Gift from '@/components/Gift.vue'
+// import Gift from '@/components/Gift.vue'
 
 // Form handler
 const form = ref(null)

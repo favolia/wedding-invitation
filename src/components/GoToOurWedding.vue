@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <section class="w-full">
     <wave class="bg-slate-100" />
     <section class="container-section">
@@ -27,4 +27,4 @@ import { ref } from 'vue'
 import HeaderSection from '@/components/HeaderSection.vue'
 import wave from '@/assets/svg/wave.svg'
 
-</script> -->
+</script>

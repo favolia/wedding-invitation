@@ -1,5 +1,6 @@
 <template>
   <section>
+    <Undangan></Undangan>
     <MainCover id="mainCover"></MainCover>
     <FirstSight></FirstSight>
     <GroomBride></GroomBride>
@@ -19,6 +20,11 @@ import Timelines from '@/components/Timelines.vue'
 import OurGallery from '@/components/OurGallery.vue'
 import Envelope from '@/components/Envelope.vue'
 import GuestBook from '@/components/GuestBook.vue'
+
+import Undangan from '@/components/Undangan.vue'
+
+// Undangan handler
+
 
 // Navigation handler
 const navigationHandler = id => {

@@ -2,19 +2,13 @@
   <section class="w-full bg-couples bg-cover bg-center h-screen">
     <section class=" h-screen flex items-end w-full">
       <div 
-        class="animate__animated animate__fadeInUpBig h-[80%] w-full flex flex-col justify-center text-gray-100 text-center bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-t-3xl px-6 py-10">
-        <p class="mb-2">Pernikahan</p>
+        class="animate__animated animate__fadeInUpBig h-[40%] w-full flex flex-col justify-center items-center text-gray-100 text-center bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-t-3xl px-6 py-32">
+        <p class="mb-2">Akan Menikah</p>
         <h1 class="tangerine-font text-4xl font-bold">{{ couples[0] }}</h1>
         <sup class="font-serif font-normal text-lg">(Zul)</sup>
         <h1 class="tangerine-font text-title leading-[3rem]">&</h1>
         <h1 class="tangerine-font text-4xl font-bold">{{ couples[1] }}</h1>
         <sup class="font-serif font-normal text-lg">(Amel)</sup>
-        <decoration class="fill-amber-400 mx-auto w-3/12 mb-3"></decoration>
-        <p class="text-sm">
-          <p class="font-medium">Kepada Bapak/Ibu Yang Terhormat</p>
-          <p class="my-2 text-lg font-bold">{{ query.to }}</p>
-          <small>Izinkan kami turut mengundang anda dalam acara kami</small>
-        </p>
       </div>
     </section>
   </section>

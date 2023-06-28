@@ -22,7 +22,7 @@ import MiniButton from '@/components/MiniButton.vue'
 
 onMounted(() => {
   AOS.init({
-    delay: '200'
+    delay: '100'
   })
 })
 
