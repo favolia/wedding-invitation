@@ -10,7 +10,7 @@
           </p>
         </template>
         <template v-slot:footer>
-          <img src="@/assets/images/b3.jpg" class="w-full" alt="">
+          <img src="/galleries/a3.jpg" class="w-full" alt="">
         </template>
       </Card>
     </section>
