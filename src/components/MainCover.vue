@@ -1,6 +1,6 @@
 <template>
-  <section class="w-full bg-couples bg-cover bg-center h-screen">
-    <section class=" h-screen flex items-end w-full">
+  <section class="w-full bg-couples bg-cover bg-center h-[90vh]">
+    <section class=" h-[90vh] flex items-end w-full">
       <div 
         class="animate__animated animate__fadeInUpBig h-[40%] w-full flex flex-col justify-center items-center text-gray-100 text-center bg-gray-800 bg-opacity-50 backdrop-blur-sm rounded-t-3xl px-6 py-32">
         <p class="mb-2">Akan Menikah</p>
