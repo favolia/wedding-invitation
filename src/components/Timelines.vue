@@ -42,7 +42,13 @@
           </section>
         </template>
       </Card>
-      <HeaderSection class="pt-12 pb-5 !text-white" title="Turut Mengundang" decor="fill-yellow-300" subtitle="Yudar Yusuf / Haslinda <br> Keluarga Besar Muh.Yusuf.H & Darmawati <br> Keluarga Besar Puang Ngati(Alm) & Masita Puang Bulan"></HeaderSection>
+      <HeaderSection class="pt-12 pb-5 !text-white" title="Turut Mengundang" decor="fill-yellow-300" subtitle="- Adam Rasyid (AAN SPORT PANGKEP) & Hikmah Sahibe 
+        <br> 
+        - Kel. Besar (Alm.) H. Abd. Rasyid Bin A. Masse & Hj. Najemah Binti H. Pammula
+        <br>
+        - Kel. Besar (Alm.) Sahibe Bin Saleng & (Almh.) Jawahire Binti Raupung
+        <br>
+        - Kel. Besar PUTRA SAMBUNG JAWA FC"></HeaderSection>
     </section>
   </section>
 </template>
