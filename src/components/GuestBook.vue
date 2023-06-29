@@ -27,12 +27,6 @@ input, textarea, select, option {
       />
       <!-- Form -->
       <form ref="form" @submit="sendMessage" class="w-10/12 mx-auto mt-6">
-        <!-- Alert -->
-        <Alert
-          :statusResponse="statusResponse"
-          :showAlert="showAlert"
-          v-on:close="showAlert = false"
-        />
         <!-- Guest Name -->
         <div class="input-wrapper" data-aos="zoom-in">
           <label for="GuestName">Nama</label>
@@ -76,6 +70,12 @@ input, textarea, select, option {
           Kirim pesan
         </button>
       </form>
+        <!-- Alert -->
+        <Alert
+          :statusResponse="statusResponse"
+          :showAlert="showAlert"
+          v-on:close="showAlert = false"
+        />
       <!-- Message Box -->
       <MessagesBox :messages="messages"></MessagesBox>
       <!-- Frames -->
