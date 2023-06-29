@@ -69,13 +69,13 @@ input, textarea, select, option {
           <i class="fa fa-paper-plane mr-1"></i>
           Kirim pesan
         </button>
-      </form>
         <!-- Alert -->
         <Alert
           :statusResponse="statusResponse"
           :showAlert="showAlert"
           v-on:close="showAlert = false"
         />
+      </form>
       <!-- Message Box -->
       <MessagesBox :messages="messages"></MessagesBox>
       <!-- Frames -->
