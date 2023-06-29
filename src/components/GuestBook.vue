@@ -70,7 +70,7 @@ input, textarea, select, option {
           Kirim pesan
         </button>
         <!-- Alert -->
-        <Alert
+        <Alert class="mt-5"
           :statusResponse="statusResponse"
           :showAlert="showAlert"
           v-on:close="showAlert = false"
